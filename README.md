@@ -10,7 +10,7 @@ class My_Skills:
   Languages = ["C", "C++", "Python", "VisualBasic", "Batch"]
   Tech = ["DOTNET", "Unreal Engine"]
 
-def interested_in():
+def interested_in_collaborating_on():
   Light_work:
     Graphic_Design_3D(random_stuff)
     Animation_3D(for_game_dev)
@@ -18,17 +18,6 @@ def interested_in():
   Standard_work:
     Frontend_UI_Design(VB.NET, HTML, CSS)
     Scripting_and_Automation(Python, Batch)
-
-def working_on():
-  Usually:
-    General_Uni_Studies()
-  Free_time():
-    Learning(Kotlin)
-    Try_to_come_up_with(real_world_engineering_applications)
-
-def timepass():
-  while True:
-    binge_watch_YouTube_videos() # Tech, Comedy, Politics, Religion
 ```
 
 ## My activities
