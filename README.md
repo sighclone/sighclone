@@ -7,7 +7,7 @@ class Who_Am_I:
   University = "Vellore Institute of Technology, Vellore, India"
 
 class My_Skills:
-  Languages = ["C", "C++", "Python", "VisualBasic", "Batch"]
+  Languages = ["C", "C++", "Python", "VisualBasic", "PowerShell"]
   Tech = ["DOTNET", "Unreal Engine"]
 
 def interested_in_collaborating_on():
@@ -17,7 +17,7 @@ def interested_in_collaborating_on():
     Music(carnatic)
   Standard_work:
     Frontend_UI_Design(VB.NET, HTML, CSS)
-    Scripting_and_Automation(Python, Batch)
+    Scripting_and_Automation(Python, PowerShell)
 ```
 
 ## My activities
