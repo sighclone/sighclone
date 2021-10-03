@@ -10,14 +10,6 @@ class My_Skills:
   Languages = ["C", "C++", "Python", "VisualBasic", "PowerShell"]
   Tech = ["DOTNET", "Unreal Engine"]
 
-def interested_in_collaborating_on():
-  Light_work:
-    Graphic_Design_3D(random_stuff)
-    Animation_3D(for_game_dev)
-    Music(carnatic)
-  Standard_work:
-    Frontend_UI_Design(VB.NET, HTML, CSS)
-    Scripting_and_Automation(Python, PowerShell)
 ```
 
 ## My activities
