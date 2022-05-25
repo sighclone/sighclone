@@ -7,8 +7,8 @@ class Who_Am_I:
   University = "Vellore Institute of Technology, Vellore, India"
 
 class My_Skills:
-  Languages = ["C", "C++", "Python", "VisualBasic", "PowerShell"]
-  Tech = ["DOTNET", "Unreal Engine"]
+  Languages = ["C", "C++", "C#", "Python", "VisualBasic", "PowerShell"]
+  Tech = ["DOTNET", "Unreal Engine", "MongoDB", "MySQL", "Blender"]
 
 ```
 
