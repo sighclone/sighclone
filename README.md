@@ -18,11 +18,4 @@ class Who_Am_I:
 
   Tech : Frontend (Mobile - Flutter, Java - JFX, Web - HTML, CSS, JS, AngularJS, Desktop - VB DOTNET, C# DOTNET), Backend (Hibernate, JSP, Servlets, Django)
 
-## My GitHub stats
-
-
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=sighclone&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sighclone&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-
-Showcase cards <a href="https://github.com/Pepyn0/github-readme-stats">credits</a>
+## Find my repos below!
